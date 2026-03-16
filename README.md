@@ -1,27 +1,48 @@
-Sales Analysis Dashboard – Power BI
+# 📊 Sales Analysis Dashboard
 
-Tools Used:
-Power BI | Power Query | DAX
+## Project Overview
 
-Project Description:
-This project focuses on analyzing sales data using Power BI to identify key business insights and performance trends. The dataset was cleaned and transformed using Power Query, and an interactive dashboard was created to visualize important sales metrics.
+This project analyzes sales data to identify trends, top-performing products, and regional sales distribution.
+The data is visualized using a Power BI dashboard to help understand business performance.
 
-Key Features of the Dashboard:
-- Total Sales and Revenue Overview
-- Monthly Sales Trends
-- Region-wise Sales Performance
-- Product Category Analysis
-- Top-Selling Products
+---
 
-Insights:
-The dashboard helps in understanding sales performance across different regions and product categories, enabling better data-driven business decisions.
-
-Skills Demonstrated:
-Data Visualization | Dashboard Development | Data Modeling | DAX | Power Query
-
-## 📊 Sales Analysis Dashboard
-
-This Power BI dashboard analyzes sales performance by category, product, and country.
+## Dashboard Preview
 
 ![Sales Dashboard](sales_dashboard.png)
 
+---
+
+## Key Objectives
+
+* Analyze total sales by product category
+* Identify top-performing products
+* Observe sales trends over time
+* Compare sales across different countries
+
+---
+
+## Tools & Technologies
+
+* Power BI
+* Excel / CSV Dataset
+* Data Visualization
+* Sales Data Analysis
+
+---
+
+## Key Insights
+
+* Beverages category contributes the highest share of total sales.
+* Sales show an upward trend over time.
+* A few products dominate overall revenue.
+* North America and Europe generate the majority of sales.
+
+---
+
+## Files in Repository
+
+sales_dashboard.pbix → Power BI dashboard file
+sales_dataset.csv → Dataset used for analysis
+sales_dashboard.png → Dashboard screenshot
+README.md → Project documentation
