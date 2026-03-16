@@ -18,3 +18,10 @@ The dashboard helps in understanding sales performance across different regions 
 
 Skills Demonstrated:
 Data Visualization | Dashboard Development | Data Modeling | DAX | Power Query
+
+## 📊 Sales Analysis Dashboard
+
+This Power BI dashboard analyzes sales performance by category, product, and country.
+
+![Sales Dashboard](sales_dashboard.png)
+
